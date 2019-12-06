@@ -1,7 +1,7 @@
 
 # Visualization with Python, Project 1
 
-This the my first project in Data Analyst Training Accelerator class at Galvanize New York.   
+This is my first project in Data Analyst Training Accelerator class at Galvanize New York.   
 
 The goal of this exercise is to analyze a dataset using Python and its visualization tools, in order to obtain exploratory graphs and insights.
 
